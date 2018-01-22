@@ -1,0 +1,1 @@
+Hi so this was a fun little project I made when I was first learning python. It is a display for a Raspberry Pi which provides information about my computer temps. It receives information over a socket sent by a Java program and is probably insanely unsecure. Anyways, here is the client which runs on the RPi.
